@@ -1,0 +1,19 @@
+{
+  "name": "api-tester",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roycrxtw/api-tester.git"
+  },
+  "author": "roycrxtw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/roycrxtw/api-tester/issues"
+  },
+  "homepage": "https://github.com/roycrxtw/api-tester#readme"
+}
